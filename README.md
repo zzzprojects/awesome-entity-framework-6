@@ -55,6 +55,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/z
  - [PommaLabs.KVLite.EntityFramework](https://gitlab.com/pommalabs/kvlite) - KVLite is a partition-based key-value cache built for SQL RDBMSs. This package contains an Entity Framework query cache provider.
  - [Stove.EntityFramework](https://github.com/stoveproject/Stove) - EntityFramework integration for Stove.
  - [EntityFrameworkMock](https://github.com/huysentruitw/entity-framework-mock) - Easy Mock wrapper for mocking EF6 DbContext and DbSet using Moq.
+ - [EntityFramework.PrimaryKey](https://github.com/NickStrupat/EntityFramework.PrimaryKey) - Retrieve the primary key (including composite keys) from any entity as a dictionary.
+ - [DelegateDecompiler.EntityFramework](https://github.com/hazzik/DelegateDecompiler) - A library which is able to decompile a delegate or a method body to its lambda representation.
+ - [MassTransit.EntityFramework](https://github.com/MassTransit/MassTransit) - MassTransit Entity Framework support; MassTransit is a message-based distributed application framework for .NET
 
 ## Unsupported Packages
 
