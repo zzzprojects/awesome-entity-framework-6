@@ -59,14 +59,14 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 
 ## Unsupported Packages
 
- - [EntityFramework.Extended](https://github.com/zzzprojects/EntityFramework.Extended) - EntityFramework.Extended is a library that improves Entity Framework performance and overcomes limitations with MUST-HAVE features.
+ - [EntityFramework.Extended](https://github.com/zzzprojects/EntityFramework.Extended) - Add-on feature for Entity Framework.
  - [EntityFramework.Filters](https://github.com/jbogard/EntityFramework.Filters) - Filters implementation for Entity Framework.
  - [EntityFramework.CommonTools](https://github.com/gnaeus/EntityFramework.CommonTools) - Extensions, Auditing, Concurrency Checks, JSON properties and Transaction Logs for EntityFramework and EFCore.
  - [AspNet.Identity.EntityFramework.Multitenant](https://github.com/JSkimming/AspNet.Identity.EntityFramework.Multitenant) - Multi-tenant support for ASP.NET Identity using Entity Framework.
- - [AuditDbContext](http://auditdbcontext.codeplex.com/) - AuditDbContext provides entity change auditing for Entity Framework POCO entities. It lets you easily implement change auditing on your application entities.
+ - [AuditDbContext](http://auditdbcontext.codeplex.com/) - AuditDbContext provides entity change auditing for Entity Framework POCO entities.
  - [EFAuditing](https://github.com/johannbrink/EFAuditing) - EFAuditing is a library that implements Auditing for Entity Framework Core based DbContexts. It is extensible to allow other logging providers like MongoDB, Azure tables, etc.
- - [EntityFramework.Utilities](https://github.com/MikaelEliasson/EntityFramework.Utilities) - EntityFramework.Utilities provides some batch operations for using EF that the EF team hasn't yet added for us.
- - [TrackerEnabledDbContext](https://github.com/bilal-fazlani/tracker-enabled-dbcontext) - rackerEnabledDbContext (TEDB) is a .net library based on entity framework. It is created for tracking the changes in a database.
+ - [EntityFramework.Utilities](https://github.com/MikaelEliasson/EntityFramework.Utilities) - Provides extensions for EntityFramework that doesn't exist out of the box like delete and update by query and bulk inserts.
+ - [TrackerEnabledDbContext](https://github.com/bilal-fazlani/tracker-enabled-dbcontext) - Tracker-enabled DbContext offers you to implement full auditing in your database.
  - [Speedy.EntityFramework](https://github.com/BobbyCannon/Speedy) - Speedy is a simple easy to use Entity Framework unit testing framework.
  - [EFBulkInsert](https://github.com/andreisabau/EFBulkInsert) - Provides an extension method over the Entity Framework DbContext for bulk insertion of entities.
 
