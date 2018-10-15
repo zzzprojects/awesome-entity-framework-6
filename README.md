@@ -78,8 +78,7 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
  - [Oracle.ManagedDataAccess.EntityFramework](https://www.nuget.org/packages/Oracle.ManagedDataAccess.EntityFramework/) - Official Oracle ODP.NET, Managed Entity Framework Driver.
  - [EntityFramework6.Npgsql](https://github.com/npgsql/EntityFramework6.Npgsql) - Entity Framework 6 provider for PostgreSQL
  - [Npgsql.EF6](https://www.nuget.org/packages/Npgsql.EF6/) - Npgsql is a .NET data provider for PostgreSQL. It is implemented in C#. Works with Postgresql 7.x and above.
- - [Firebird Entity Framework Provider](http://www.firebirdsql.org/en/net-provider/) - The Entity Framework Core Provider for Firebird enables you to develop .NET applications that connect to the Firebird database using Entity Framework Core.
+ - [Firebird Entity Framework Provider](http://www.firebirdsql.org/en/net-provider/) - The .NET Data provider is written in C# and provides a high-performance, native implementation of the Firebird API.
  - [Devart](https://www.devart.com/dotconnect/) - Devart dotConnect is a commercial third-party provider. Entity Framework support is only available in paid versions of dotConnect.
  - [CData Software providers](https://www.cdata.com/ado/) - A third-party providers from CData Software for a variety of data stores including Salesforce, Azure Table Storage, MySql, and many more.
- - [FirebirdSql.Data.FirebirdClient](https://www.firebirdsql.org/en/net-provider/) - Firebird ADO.NET Data Provider.
  - [VFPEntityFrameworkProvider2](https://www.nuget.org/packages/VFPEntityFrameworkProvider2/) - Entity Framework 6 Provider for VFP data.
