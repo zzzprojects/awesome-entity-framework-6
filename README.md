@@ -26,7 +26,7 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
  - [Entityframeworktutorial.Net](http://www.entityframeworktutorial.net/) - Learn Entity Framework using simple yet practical examples on EntityFrameworkTutorial.net for free
  - [Riptutorial.com](https://riptutorial.com/entity-framework) - Archived Stack Overflow Documentation (English and French)
  - [Google](http://www.letmegooglethat.com/?q=Entity+Framework) - Up-and-coming search engine ;)
- - 
+ 
 ## Supported Packages
 
  - [EntityFramework-Classic](https://github.com/zzzprojects/EntityFramework-Classic) - Entity Framework Classic is a supported version from the latest EF6 code base. It supports .NET Framework and .NET Core and overcomes some EF limitations by adding tons of must-haves built-in features.
