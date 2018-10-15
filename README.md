@@ -8,9 +8,7 @@ A curated list of awesome entity framework 6 libraries, packages, and documentat
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/zzzprojects/awesome-entity-framework-6/blob/master/CONTRIBUTING.md) first.
-
-#### *If you see a package here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
+Suggestions and contributions are always welcome! Make sure to read the <a href="https://github.com/zzzprojects/awesome-entity-framework-6/blob/master/CONTRIBUTING.md">contribution guidelines</a> for more information before submitting a pull request.
 
 ### Contents
 
@@ -25,7 +23,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/z
  - [Entity Framework Docs](https://github.com/aspnet/EntityFramework.Docs) - Official documentation for Entity Framework by Microsoft.
  - [Entity Framework Tutorial](http://entityframework.net/) - Entity Framework - FAQ
  - [MicrosoftLearning/EntityFramework](https://github.com/MicrosoftLearning/EntityFramework) - Entity Framework and MVC MVA
-
+ - [Entityframeworktutorial.Net](http://www.entityframeworktutorial.net/) - Learn Entity Framework using simple yet practical examples on EntityFrameworkTutorial.net for free
+ - 
 ## Supported Packages
 
  - [EntityFramework-Classic](https://github.com/zzzprojects/EntityFramework-Classic) - Entity Framework Classic is a supported version from the latest EF6 code base. It supports .NET Framework and .NET Core and overcomes some EF limitations by adding tons of must-haves built-in features.
@@ -53,11 +52,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/z
  - [SQLiteCodeFirst](https://github.com/msallin/SQLiteCodeFirst) - Creates an SQLite Database based on an EdmModel by using Entity Framework CodeFirst.
  - [IdentityServer4.EntityFramework](https://github.com/IdentityServer/IdentityServer4.EntityFramework) - EntityFramework persistence layer for IdentityServer4
  - [PommaLabs.KVLite.EntityFramework](https://gitlab.com/pommalabs/kvlite) - KVLite is a partition-based key-value cache built for SQL RDBMSs. This package contains an Entity Framework query cache provider.
- - [Stove.EntityFramework](https://github.com/stoveproject/Stove) - EntityFramework integration for Stove.
- - [EntityFrameworkMock](https://github.com/huysentruitw/entity-framework-mock) - Easy Mock wrapper for mocking EF6 DbContext and DbSet using Moq.
- - [EntityFramework.PrimaryKey](https://github.com/NickStrupat/EntityFramework.PrimaryKey) - Retrieve the primary key (including composite keys) from any entity as a dictionary.
+ - [Stove.EntityFramework](https://github.com/stoveproject/Stove) - Domain Driven Design oriented application framework, meets CRUD needs.
+ - [EntityFrameworkMock](https://github.com/huysentruitw/entity-framework-mock) - Easy Mock wrapper for mocking EF6 DbContext and DbSet using Moq or NSubstitute.
+ - [EntityFramework.PrimaryKey](https://github.com/NickStrupat/EntityFramework.PrimaryKey) - Retrieve the primary key (including composite keys) from any entity.
  - [DelegateDecompiler.EntityFramework](https://github.com/hazzik/DelegateDecompiler) - A library which is able to decompile a delegate or a method body to its lambda representation.
- - [MassTransit.EntityFramework](https://github.com/MassTransit/MassTransit) - MassTransit Entity Framework support; MassTransit is a message-based distributed application framework for .NET
 
 ## Unsupported Packages
 
