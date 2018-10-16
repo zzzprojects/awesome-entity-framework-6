@@ -25,7 +25,7 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
  - [MicrosoftLearning/EntityFramework](https://github.com/MicrosoftLearning/EntityFramework) - Entity Framework and MVC MVA
  - [Entityframeworktutorial.Net](http://www.entityframeworktutorial.net/) - Learn Entity Framework using simple yet practical examples on EntityFrameworkTutorial.net for free
  - [Riptutorial.com](https://riptutorial.com/entity-framework) - Archived Stack Overflow Documentation (Multi-Language)
- - [Knowledge base](https://entityframework.net/knowledge-base) - Translated post from Stack Overflow
+ - [Knowledge base](https://entityframework.net/knowledge-base) - Translated posts from Stack Overflow
  - [Google](http://www.letmegooglethat.com/?q=Entity+Framework) - Up-and-coming search engine ;)
  - Books
     - [Programming Entity Framework, 2nd Edition](http://shop.oreilly.com/product/9780596807252.do)
