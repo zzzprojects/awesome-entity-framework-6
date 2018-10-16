@@ -24,8 +24,15 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
  - [Entity Framework Tutorial](http://entityframework.net/) - Entity Framework - FAQ
  - [MicrosoftLearning/EntityFramework](https://github.com/MicrosoftLearning/EntityFramework) - Entity Framework and MVC MVA
  - [Entityframeworktutorial.Net](http://www.entityframeworktutorial.net/) - Learn Entity Framework using simple yet practical examples on EntityFrameworkTutorial.net for free
- - [Riptutorial.com](https://riptutorial.com/entity-framework) - Archived Stack Overflow Documentation (English and French)
+ - [Riptutorial.com](https://riptutorial.com/entity-framework) - Archived Stack Overflow Documentation (Multi-Language)
+ - [Knowledge base](https://entityframework.net/knowledge-base) - Translated posts from Stack Overflow
  - [Google](http://www.letmegooglethat.com/?q=Entity+Framework) - Up-and-coming search engine ;)
+ - Books
+    - [Programming Entity Framework, 2nd Edition](http://shop.oreilly.com/product/9780596807252.do) - Julia Lerman must have book
+    - [Programming Entity Framework: Code First](http://shop.oreilly.com/product/0636920022220.do) - Focus on the code first part of EF
+ - Videos
+    - [Pluralsight](https://www.pluralsight.com/courses/entity-framework-6-getting-started) - Online class to get started with EF 6
+    - [Microsoft Virtual Academy](https://mva.microsoft.com/en-us/training-courses/implementing-entity-framework-with-mvc-8931?l=e2H2lDC3_8304984382) - Online class from MVA on how to use EF with MVC
  
 ## Supported Packages
 
