@@ -16,7 +16,7 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
    - [Documentation and Learning](#documentation-and-learning)
    - [Popular Packages](#popular-packages)
    - [Supported Packages](#supported-packages)
-   - [Profiler Packages](#profier-packages)
+   - [Profiler Packages](#profiler-packages)
    - [Provider Packages](#provider-packages)
    - [Unsupported Packages](#supported-packages)
 
