@@ -36,14 +36,13 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
    - [Microsoft Virtual Academy](https://mva.microsoft.com/en-us/training-courses/implementing-entity-framework-with-mvc-8931?l=e2H2lDC3_8304984382) - Online class from MVA on how to use EF with MVC
 
 ## Popular Packages
- - [EntityFramework-Classic](https://github.com/zzzprojects/EntityFramework-Classic) - Entity Framework Classic is an EF6 fork. It's everything you like about EF6, but with better performance, must-have features, .NET Core support, and more.
- - [EntityFramework-Extensions](https://github.com/zzzprojects/EntityFramework-Extensions) - Entity Framework Extensions extends your DbContext with high-performance bulk operations: BulkSaveChanges, BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
-  - [EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus) - Improve Entity Framework performance and overcome limitations with MUST-HAVE features.
- - [EntityFramework.DynamicFilters](https://github.com/zzzprojects/EntityFramework.DynamicFilters) - Create global and scoped filters for Entity Framework queries. The filters are automatically applied to every query and can be used to support use cases such as Multi-Tenancy, Soft Deletes, Active/Inactive, etc.
- - [EntityFramework-Effort](https://github.com/zzzprojects/EntityFramework-Effort) - An Effort is a powerful tool that enables a convenient way to create automated tests for Entity Framework based applications.
- - [Entity Framework GraphDiff](https://github.com/zzzprojects/GraphDiff) - DbContext extension methods for Entity Framework Code First, that allows you to save an entire detached Model/Entity, with child Entities and Lists, to the database without writing the code to do it.
+ - [EntityFramework-Classic](https://entityframework-classic.net/) - Entity Framework Classic is an EF6 fork. It's everything you like about EF6, but with better performance, must-have features, .NET Core support, and more.
+ - [EntityFramework-Extensions](https://entityframework-extensions.net/) - Entity Framework Extensions extends your DbContext with high-performance bulk operations: BulkSaveChanges, BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
+  - [EntityFramework-Plus](https://entityframework-plus.net/) - Improve Entity Framework performance and overcome limitations with MUST-HAVE features.
   
 ## Supported Packages
+ - [EntityFramework.DynamicFilters](https://entityframework-dynamicfilters.net/) - Create global and scoped filters for Entity Framework queries. The filters are automatically applied to every query and can be used to support use cases such as Multi-Tenancy, Soft Deletes, Active/Inactive, etc.
+  - [Entity Framework GraphDiff](https://github.com/zzzprojects/GraphDiff) - DbContext extension methods for Entity Framework Code First, that allows you to save an entire detached Model/Entity, with child Entities and Lists, to the database without writing the code to do it.
  - [Audit.EntityFramework](https://github.com/thepirat000/Audit.NET/tree/master/src/Audit.EntityFramework) - Audit.EntityFramework provides the infrastructure to log interactions with the EF DbContext.
  - [AutoMapper.EF6](https://github.com/AutoMapper/AutoMapper.EF6) - Extensions for AutoMapper and EF6.
  - [CodeFirstFunctions](https://github.com/moozzyk/CodeFirstFunctions) - Store Functions for EntityFramework CodeFirst.
@@ -82,7 +81,7 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [EntityFramework Profiler](https://www.hibernatingrhinos.com/products/EFProf) - Entity Framework Profiler is a real-time visual debugger allowing a development team to gain valuable insight and perspective into their usage of Entity Framework.
 
 ## Providers
-
+ - [EntityFramework-Effort](https://github.com/zzzprojects/EntityFramework-Effort) - An Effort is a powerful tool that enables a convenient way to create automated tests for Entity Framework based applications.
 - [EntityFramework.SqlServerCompact](https://www.nuget.org/packages/EntityFramework.SqlServerCompact) - Allows SQL Server Compact 4.0 to be used with Entity Framework.
 - [System.Data.SQLite.EF6](https://www.nuget.org/packages/System.Data.SQLite.EF6) - Support for Entity Framework 6 using System.Data.SQLite.
 - [MySql.Data.EntityFramework](https://www.nuget.org/packages/MySql.Data.EntityFramework/) - Connector/Net is a fully-managed ADO.NET driver for MySQL.
