@@ -70,6 +70,7 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 
 ## Providers
 - [Entity Framework Effort](https://entityframework-effort.net/) - An Effort is a powerful tool that enables a convenient way to create automated tests for Entity Framework based applications.
+- [EntityFramework.SqlServer](https://www.nuget.org/packages/EntityFramework/) - Entity Framework is Microsoft's recommended data access technology for new applications.
 - [EntityFramework.SqlServerCompact](https://www.nuget.org/packages/EntityFramework.SqlServerCompact) - Allows SQL Server Compact 4.0 to be used with Entity Framework.
 - [System.Data.SQLite.EF6](https://www.nuget.org/packages/System.Data.SQLite.EF6) - Support for Entity Framework 6 using System.Data.SQLite.
 - [MySql.Data.EntityFramework](https://www.nuget.org/packages/MySql.Data.EntityFramework/) - Connector/Net is a fully-managed ADO.NET driver for MySQL.
