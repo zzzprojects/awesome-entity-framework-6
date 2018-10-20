@@ -15,9 +15,9 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [Awesome Entity Framework 6](#awesome-entity-framework-6)
    - [Documentation and Learning](#documentation-and-learning)
    - [Popular Packages](#popular-packages)
+   - [Supported Packages](#supported-packages)
    - [Provider Packages](#provider-packages)
    - [Profiler Packages](#profier-packages)
-   - [Supported Packages](#supported-packages)
    - [Unsupported Packages](#supported-packages)
 
 ## Documentation and Learning
