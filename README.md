@@ -72,10 +72,10 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [Entity Framework Effort](https://entityframework-effort.net/) - An Effort is a powerful tool that enables a convenient way to create automated tests for Entity Framework based applications.
 - [EntityFramework.SqlServer](https://www.nuget.org/packages/EntityFramework/) - Entity Framework is Microsoft's recommended data access technology for new applications.
 - [EntityFramework.SqlServerCompact](https://www.nuget.org/packages/EntityFramework.SqlServerCompact) - Allows SQL Server Compact 4.0 to be used with Entity Framework.
-- [System.Data.SQLite.EF6](https://www.nuget.org/packages/System.Data.SQLite.EF6) - Support for Entity Framework 6 using System.Data.SQLite.
-- [MySql.Data.EntityFramework](https://www.nuget.org/packages/MySql.Data.EntityFramework/) - Connector/Net is a fully-managed ADO.NET driver for MySQL.
-- [Oracle.ManagedDataAccess.EntityFramework](https://www.nuget.org/packages/Oracle.ManagedDataAccess.EntityFramework/) - Official Oracle ODP.NET, Managed Entity Framework Driver.
-- [Npgsql.EF6](https://www.nuget.org/packages/Npgsql.EF6/) - Npgsql is a .NET data provider for PostgreSQL. It is implemented in C#. Works with Postgresql 7.x and above.
 - [Firebird Entity Framework Provider](https://www.nuget.org/packages/EntityFramework.Firebird/) - The .NET Data provider is written in C# and provides a high-performance, native implementation of the Firebird API.
-- [Devart](https://www.nuget.org/packages/Devart.Data/) - Devart dotConnect is a commercial third-party provider. Entity Framework support is only available in paid versions of dotConnect.
-- [VFPEntityFrameworkProvider2](https://www.nuget.org/packages/VFPEntityFrameworkProvider2/) - Entity Framework 6 Provider for VFP data.
+- [MySql.Data.EntityFramework](https://www.nuget.org/packages/MySql.Data.EntityFramework/) - Connector/Net is a fully-managed ADO.NET driver for MySQL.
+- [Npgsql.EF6](https://www.nuget.org/packages/Npgsql.EF6/) - Npgsql is a .NET data provider for PostgreSQL. It is implemented in C#. Works with Postgresql 7.x and above.
+- [Oracle.ManagedDataAccess.EntityFramework](https://www.nuget.org/packages/Oracle.ManagedDataAccess.EntityFramework/) - Official Oracle ODP.NET, Managed Entity Framework Driver.
+- [System.Data.SQLite.EF6](https://www.nuget.org/packages/System.Data.SQLite.EF6) - Support for Entity Framework 6 using System.Data.SQLite.
+
+
