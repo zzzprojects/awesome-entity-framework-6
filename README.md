@@ -55,20 +55,11 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [LINQKit](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
 - [SQLiteCodeFirst](https://github.com/msallin/SQLiteCodeFirst) - Creates an SQLite Database based on an EdmModel by using Entity Framework CodeFirst.
 
-## Unsupported Packages
-- [EntityFramework.BulkInsert](https://www.nuget.org/packages/EntityFramework.BulkInsert-ef6/) - Deprecated package. We highly recommend you to move to [Entity Framework Extensions](https://entityframework-extensions.net/).
-- [EntityFramework.Extended](https://github.com/zzzprojects/EntityFramework.Extended) - Deprecated package. We highly recommend you to move to [Entity Framework Plus](https://entityframework-plus.net/).
-- [EntityFramework.Functions](https://github.com/Dixin/EntityFramework.Functions) - EntityFramework.Functions library implements Entity Framework code first support for stored procedures, TVFs and SVFs, etc.
-- [EntityFramework.Testing](https://github.com/scott-xu/EntityFramework.Testing) - EntityFramework.Testing provides an implementation of DbAsyncQueryProvider that can be used when testing a component that uses async queries with EntityFramework.
-- [EntityFramework.Utilities](https://github.com/MikaelEliasson/EntityFramework.Utilities) - Provides extensions for EntityFramework that doesn't exist out of the box like delete and update by query and bulk inserts.
-- [EntityFrameworkExtras](https://github.com/Fodsuk/EntityFrameworkExtras) - EntityFrameworkExtras provides some useful additions to EntityFramework such as executing Stored Procedures with User-Defined Table Types and Output Parameters.
-- [TrackerEnabledDbContext](https://github.com/bilal-fazlani/tracker-enabled-dbcontext) - Tracker-enabled DbContext offers you to implement full auditing in your database.
-
 ## Profiler Packages
 - [Hibernating Rhinos Entity Framework Profiler](https://www.hibernatingrhinos.com/products/EFProf) - Entity Framework Profiler is a real-time visual debugger allowing a development team to gain valuable insight and perspective into their usage of Entity Framework.
 - [MiniProfiler](https://miniprofiler.com/dotnet/HowTo/ProfileEF6) - MiniProfiler: Integration for Entity Framework 6
 
-## Providers
+## Provider Packages
 - [Entity Framework Effort](https://entityframework-effort.net/) - An Effort is a powerful tool that enables a convenient way to create automated tests for Entity Framework based applications.
 - [EntityFramework.SqlServer](https://www.nuget.org/packages/EntityFramework/) - Entity Framework is Microsoft's recommended data access technology for new applications.
 - [EntityFramework.SqlServerCompact](https://www.nuget.org/packages/EntityFramework.SqlServerCompact) - Allows SQL Server Compact 4.0 to be used with Entity Framework.
@@ -78,4 +69,11 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [Oracle.ManagedDataAccess.EntityFramework](https://www.nuget.org/packages/Oracle.ManagedDataAccess.EntityFramework/) - Official Oracle ODP.NET, Managed Entity Framework Driver.
 - [System.Data.SQLite.EF6](https://www.nuget.org/packages/System.Data.SQLite.EF6) - Support for Entity Framework 6 using System.Data.SQLite.
 
-
+## Unsupported Packages
+- [EntityFramework.BulkInsert](https://www.nuget.org/packages/EntityFramework.BulkInsert-ef6/) - Deprecated package. We highly recommend you to move to [Entity Framework Extensions](https://entityframework-extensions.net/).
+- [EntityFramework.Extended](https://github.com/zzzprojects/EntityFramework.Extended) - Deprecated package. We highly recommend you to move to [Entity Framework Plus](https://entityframework-plus.net/).
+- [EntityFramework.Functions](https://github.com/Dixin/EntityFramework.Functions) - EntityFramework.Functions library implements Entity Framework code first support for stored procedures, TVFs and SVFs, etc.
+- [EntityFramework.Testing](https://github.com/scott-xu/EntityFramework.Testing) - EntityFramework.Testing provides an implementation of DbAsyncQueryProvider that can be used when testing a component that uses async queries with EntityFramework.
+- [EntityFramework.Utilities](https://github.com/MikaelEliasson/EntityFramework.Utilities) - Provides extensions for EntityFramework that doesn't exist out of the box like delete and update by query and bulk inserts.
+- [EntityFrameworkExtras](https://github.com/Fodsuk/EntityFrameworkExtras) - EntityFrameworkExtras provides some useful additions to EntityFramework such as executing Stored Procedures with User-Defined Table Types and Output Parameters.
+- [TrackerEnabledDbContext](https://github.com/bilal-fazlani/tracker-enabled-dbcontext) - Tracker-enabled DbContext offers you to implement full auditing in your database.
