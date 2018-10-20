@@ -36,9 +36,9 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
    - [Microsoft Virtual Academy](https://mva.microsoft.com/en-us/training-courses/implementing-entity-framework-with-mvc-8931?l=e2H2lDC3_8304984382) - Online class from MVA on how to use EF with MVC
 
 ## Popular Packages
- - [EntityFramework-Classic](https://entityframework-classic.net/) - Entity Framework Classic is an EF6 fork. It's everything you like about EF6, but with better performance, must-have features, .NET Core support, and more.
- - [EntityFramework-Extensions](https://entityframework-extensions.net/) - Entity Framework Extensions extends your DbContext with high-performance bulk operations: BulkSaveChanges, BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
-  - [EntityFramework-Plus](https://entityframework-plus.net/) - Improve Entity Framework performance and overcome limitations with MUST-HAVE features.
+ - [Entity Framework Classic](https://entityframework-classic.net/) - Entity Framework Classic is an EF6 fork. It's everything you like about EF6, but with better performance, must-have features, .NET Core support, and more.
+ - [Entity Framework Extensions](https://entityframework-extensions.net/) - Entity Framework Extensions extends your DbContext with high-performance bulk operations: BulkSaveChanges, BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
+  - [Entity Framework Plus](https://entityframework-plus.net/) - Improve Entity Framework performance and overcome limitations with MUST-HAVE features.
   
 ## Supported Packages
  - [EntityFramework.DynamicFilters](https://entityframework-dynamicfilters.net/) - Create global and scoped filters for Entity Framework queries. The filters are automatically applied to every query and can be used to support use cases such as Multi-Tenancy, Soft Deletes, Active/Inactive, etc.
