@@ -56,8 +56,8 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [SQLiteCodeFirst](https://github.com/msallin/SQLiteCodeFirst) - Creates an SQLite Database based on an EdmModel by using Entity Framework CodeFirst.
 
 ## Unsupported Packages
-- [EntityFramework.BulkInsert](https://www.nuget.org/packages/EntityFramework.BulkInsert-ef6/) - This library is no longer supported since 2014. We highly recommend you to move to [Entity Framework Extensions](https://entityframework-extensions.net/).
-- [EntityFramework.Extended](https://github.com/zzzprojects/EntityFramework.Extended) - This library is no longer supported since 2015. We highly recommend you to move to [Entity Framework Plus](https://entityframework-plus.net/).
+- [EntityFramework.BulkInsert](https://www.nuget.org/packages/EntityFramework.BulkInsert-ef6/) - Deprecated package. We highly recommend you to move to [Entity Framework Extensions](https://entityframework-extensions.net/).
+- [EntityFramework.Extended](https://github.com/zzzprojects/EntityFramework.Extended) - Deprecated package. We highly recommend you to move to [Entity Framework Plus](https://entityframework-plus.net/).
 - [EntityFramework.Functions](https://github.com/Dixin/EntityFramework.Functions) - EntityFramework.Functions library implements Entity Framework code first support for stored procedures, TVFs and SVFs, etc.
 - [EntityFramework.Testing](https://github.com/scott-xu/EntityFramework.Testing) - EntityFramework.Testing provides an implementation of DbAsyncQueryProvider that can be used when testing a component that uses async queries with EntityFramework.
 - [EntityFramework.Utilities](https://github.com/MikaelEliasson/EntityFramework.Utilities) - Provides extensions for EntityFramework that doesn't exist out of the box like delete and update by query and bulk inserts.
