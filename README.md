@@ -50,7 +50,7 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [EntityFramework.DynamicFilters](https://entityframework-dynamicfilters.net/) - Create global and scoped filters for Entity Framework queries. The filters are automatically applied to every query and can be used to support use cases such as Multi-Tenancy, Soft Deletes, Active/Inactive, etc.
  - [EntityFramework-Reverse-POCO-Code-First-Generator](https://github.com/sjh37/EntityFramework-Reverse-POCO-Code-First-Generator) - EntityFramework Reverse POCO Code First Generator - Beautifully generated code-first code that is fully customizable. 
 - [EntityFramework.Toolkit](https://github.com/thomasgalliker/EntityFramework.Toolkit) - EntityFramework.Toolkit is a library which provides implementations for EntityFramework best practices, patterns, utilities, and extensions.
-  - [EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) - Adds events for entity inserting, inserted, updating, updated, deleting, and deleted.
+- [EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) - Adds events for entity inserting, inserted, updating, updated, deleting, and deleted.
 - [GraphDiff](https://github.com/zzzprojects/GraphDiff) - DbContext extension methods for Entity Framework Code First, that allows you to save an entire detached Model/Entity, with child Entities and Lists, to the database without writing the code to do it.
 - [LINQKit](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
 - [SQLiteCodeFirst](https://github.com/msallin/SQLiteCodeFirst) - Creates an SQLite Database based on an EdmModel by using Entity Framework CodeFirst.
