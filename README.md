@@ -41,31 +41,19 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [Entity Framework Plus](https://entityframework-plus.net/) - Improve Entity Framework performance and overcome limitations with MUST-HAVE features.
   
 ## Supported Packages
- - [Audit.EntityFramework](https://github.com/thepirat000/Audit.NET/tree/master/src/Audit.EntityFramework) - Audit.EntityFramework provides the infrastructure to log interactions with the EF DbContext.
- - [AutoMapper.EF6](https://www.nuget.org/packages/AutoMapper.EF6/) - Extensions to make AutoMapper easier to work with Entity Framework. Project to collections and items, decompiling calculated properties along the way.
- - [EntityFramework.DynamicFilters](https://entityframework-dynamicfilters.net/) - Create global and scoped filters for Entity Framework queries. The filters are automatically applied to every query and can be used to support use cases such as Multi-Tenancy, Soft Deletes, Active/Inactive, etc.
- - [GraphDiff](https://github.com/zzzprojects/GraphDiff) - DbContext extension methods for Entity Framework Code First, that allows you to save an entire detached Model/Entity, with child Entities and Lists, to the database without writing the code to do it.
-
-
-
-
-
-
-
-
- - [CodeFirstFunctions](https://github.com/moozzyk/CodeFirstFunctions) - Store Functions for EntityFramework CodeFirst.
- - [DelegateDecompiler.EntityFramework](https://github.com/hazzik/DelegateDecompiler) - A library which is able to decompile a delegate or a method body to its lambda representation.
- - [EFCache](https://github.com/moozzyk/EFCache) - EntityFramework.Cache provides a second level cache for Entity Framework 6.1 and newer.
- - [EFDesigner](https://github.com/msawczyn/EFDesigner) - Entity Framework visual design surface and code-first code generation for EF6, Core and beyond.
- - [EntityFramework.Toolkit](https://github.com/thomasgalliker/EntityFramework.Toolkit) - EntityFramework.Toolkit is a library which provides implementations for EntityFramework best practices, patterns, utilities, and extensions.
- - [EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) - Adds events for entity inserting, inserted, updating, updated, deleting, and deleted.
- - [EntityFramework.PrimaryKey](https://github.com/NickStrupat/EntityFramework.PrimaryKey) - Retrieve the primary key (including composite keys) from any entity.
+- [Audit.EntityFramework](https://github.com/thepirat000/Audit.NET/tree/master/src/Audit.EntityFramework) - Audit.EntityFramework provides the infrastructure to log interactions with the EF DbContext.
+- [AutoMapper.EF6](https://www.nuget.org/packages/AutoMapper.EF6/) - Extensions to make AutoMapper easier to work with Entity Framework. Project to collections and items, decompiling calculated properties along the way.
+- [CodeFirstFunctions](https://github.com/moozzyk/CodeFirstFunctions) - Store Functions for EntityFramework CodeFirst.
+- [DelegateDecompiler.EntityFramework](https://github.com/hazzik/DelegateDecompiler) - A library which is able to decompile a delegate or a method body to its lambda representation.
+- [EFCache](https://github.com/moozzyk/EFCache) - EntityFramework.Cache provides a second level cache for Entity Framework 6.1 and newer.
+  - [EFDesigner](https://github.com/msawczyn/EFDesigner) - Entity Framework visual design surface and code-first code generation for EF6, Core and beyond.
+- [EntityFramework.DynamicFilters](https://entityframework-dynamicfilters.net/) - Create global and scoped filters for Entity Framework queries. The filters are automatically applied to every query and can be used to support use cases such as Multi-Tenancy, Soft Deletes, Active/Inactive, etc.
  - [EntityFramework-Reverse-POCO-Code-First-Generator](https://github.com/sjh37/EntityFramework-Reverse-POCO-Code-First-Generator) - EntityFramework Reverse POCO Code First Generator - Beautifully generated code-first code that is fully customizable. 
- - [EntityFrameworkMock](https://github.com/huysentruitw/entity-framework-mock) - Easy Mock wrapper for mocking EF6 DbContext and DbSet using Moq or NSubstitute.
- - [LINQKit](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
- - [MassTransit.EntityFramework](https://github.com/MassTransit/MassTransit) - MassTransit Entity Framework support; MassTransit is a message-based distributed application framework for .NET [http://masstransit-project.com/](http://masstransit-project.com/)
+- [EntityFramework.Toolkit](https://github.com/thomasgalliker/EntityFramework.Toolkit) - EntityFramework.Toolkit is a library which provides implementations for EntityFramework best practices, patterns, utilities, and extensions.
+  - [EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) - Adds events for entity inserting, inserted, updating, updated, deleting, and deleted.
+- [GraphDiff](https://github.com/zzzprojects/GraphDiff) - DbContext extension methods for Entity Framework Code First, that allows you to save an entire detached Model/Entity, with child Entities and Lists, to the database without writing the code to do it.
+- [LINQKit](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
 - [SQLiteCodeFirst](https://github.com/msallin/SQLiteCodeFirst) - Creates an SQLite Database based on an EdmModel by using Entity Framework CodeFirst.
-
 
 ## Unsupported Packages
 - [EntityFramework.Testing](https://github.com/scott-xu/EntityFramework.Testing) - EntityFramework.Testing provides an implementation of DbAsyncQueryProvider that can be used when testing a component that uses async queries with EntityFramework.
