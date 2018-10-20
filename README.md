@@ -56,22 +56,14 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [SQLiteCodeFirst](https://github.com/msallin/SQLiteCodeFirst) - Creates an SQLite Database based on an EdmModel by using Entity Framework CodeFirst.
 
 ## Unsupported Packages
-- [EntityFramework.Testing](https://github.com/scott-xu/EntityFramework.Testing) - EntityFramework.Testing provides an implementation of DbAsyncQueryProvider that can be used when testing a component that uses async queries with EntityFramework.
-- [EntityFramework.Extended](https://github.com/zzzprojects/EntityFramework.Extended) - Add-on feature for Entity Framework.
-- [EntityFramework.Filters](https://github.com/jbogard/EntityFramework.Filters) - Filters implementation for Entity Framework.
-- [EntityFramework.CommonTools](https://github.com/gnaeus/EntityFramework.CommonTools) - Extensions, Auditing, Concurrency Checks, JSON properties and Transaction Logs for EntityFramework and EFCore.
-- [AspNet.Identity.EntityFramework.Multitenant](https://github.com/JSkimming/AspNet.Identity.EntityFramework.Multitenant) - Multi-tenant support for ASP.NET Identity using Entity Framework.
-- [AuditDbContext](http://auditdbcontext.codeplex.com/) - AuditDbContext provides entity change auditing for Entity Framework POCO entities.
-- [EFAuditing](https://github.com/johannbrink/EFAuditing) - EFAuditing is a library that implements Auditing for Entity Framework Core based DbContexts. It is extensible to allow other logging providers like MongoDB, Azure tables, etc.
-- [EntityFramework.Utilities](https://github.com/MikaelEliasson/EntityFramework.Utilities) - Provides extensions for EntityFramework that doesn't exist out of the box like delete and update by query and bulk inserts.
-- [TrackerEnabledDbContext](https://github.com/bilal-fazlani/tracker-enabled-dbcontext) - Tracker-enabled DbContext offers you to implement full auditing in your database.
-- [Speedy.EntityFramework](https://github.com/BobbyCannon/Speedy) - Speedy is a simple easy to use Entity Framework unit testing framework.
-- [EFBulkInsert](https://github.com/andreisabau/EFBulkInsert) - Provides an extension method over the Entity Framework DbContext for bulk insertion of entities.
-- [EntityFrameworkExtras](https://github.com/Fodsuk/EntityFrameworkExtras) - EntityFrameworkExtras provides some useful additions to EntityFramework such as executing Stored Procedures with User-Defined Table Types and Output Parameters.
-- [EntityFramework.BulkInsert](https://github.com/ghost1face/EntityFramework.BulkInsert) - The purpose of this library is for performing Bulk Inserts using EntityFramework 6 and your existing DbContext instance to perform faster inserts instead of generating multiple insert statements for a collection of strongly typed objects.
-
+- [EntityFramework.BulkInsert](https://www.nuget.org/packages/EntityFramework.BulkInsert-ef6/) - This library is no longer supported since 2015. We highly recommend you to move to [Entity Framework Extensions](https://entityframework-extensions.net/).
+- [EntityFramework.Extended](https://github.com/zzzprojects/EntityFramework.Extended) - This library is no longer supported since 2015. We highly recommend you to move to [Entity Framework Plus](https://entityframework-plus.net/).
 - [EntityFramework.Functions](https://github.com/Dixin/EntityFramework.Functions) - EntityFramework.Functions library implements Entity Framework code first support for stored procedures, TVFs and SVFs, etc.
-- [EntityFramework.Utilities](https://github.com/RudeySH/EntityFramework.Utilities) - Provides extensions for EntityFramework that doesn't exist out of the box like delete and update by query and bulk inserts.
+- [EntityFramework.Testing](https://github.com/scott-xu/EntityFramework.Testing) - EntityFramework.Testing provides an implementation of DbAsyncQueryProvider that can be used when testing a component that uses async queries with EntityFramework.
+- [EntityFramework.Utilities](https://github.com/MikaelEliasson/EntityFramework.Utilities) - Provides extensions for EntityFramework that doesn't exist out of the box like delete and update by query and bulk inserts.
+- [EntityFrameworkExtras](https://github.com/Fodsuk/EntityFrameworkExtras) - EntityFrameworkExtras provides some useful additions to EntityFramework such as executing Stored Procedures with User-Defined Table Types and Output Parameters.
+- [TrackerEnabledDbContext](https://github.com/bilal-fazlani/tracker-enabled-dbcontext) - Tracker-enabled DbContext offers you to implement full auditing in your database.
+
 
 ## Profiler Packages
 - [EntityFramework Profiler](https://www.hibernatingrhinos.com/products/EFProf) - Entity Framework Profiler is a real-time visual debugger allowing a development team to gain valuable insight and perspective into their usage of Entity Framework.
