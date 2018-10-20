@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Entity Framework is an open-source ORM framework for .NET applications. It is the official data access platform for Microsoft.
+[Entity Framework](https://www.nuget.org/packages/EntityFramework/) is an open-source ORM framework for .NET applications. It is the official data access platform for Microsoft.
 
 A curated list of awesome entity framework 6 libraries, packages, and documentation.
 
