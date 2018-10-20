@@ -41,10 +41,18 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [Entity Framework Plus](https://entityframework-plus.net/) - Improve Entity Framework performance and overcome limitations with MUST-HAVE features.
   
 ## Supported Packages
- - [EntityFramework.DynamicFilters](https://entityframework-dynamicfilters.net/) - Create global and scoped filters for Entity Framework queries. The filters are automatically applied to every query and can be used to support use cases such as Multi-Tenancy, Soft Deletes, Active/Inactive, etc.
-  - [Entity Framework GraphDiff](https://github.com/zzzprojects/GraphDiff) - DbContext extension methods for Entity Framework Code First, that allows you to save an entire detached Model/Entity, with child Entities and Lists, to the database without writing the code to do it.
  - [Audit.EntityFramework](https://github.com/thepirat000/Audit.NET/tree/master/src/Audit.EntityFramework) - Audit.EntityFramework provides the infrastructure to log interactions with the EF DbContext.
- - [AutoMapper.EF6](https://github.com/AutoMapper/AutoMapper.EF6) - Extensions for AutoMapper and EF6.
+ - [AutoMapper.EF6](https://www.nuget.org/packages/AutoMapper.EF6/) - Extensions to make AutoMapper easier to work with Entity Framework. Project to collections and items, decompiling calculated properties along the way.
+ - [EntityFramework.DynamicFilters](https://entityframework-dynamicfilters.net/) - Create global and scoped filters for Entity Framework queries. The filters are automatically applied to every query and can be used to support use cases such as Multi-Tenancy, Soft Deletes, Active/Inactive, etc.
+ - [GraphDiff](https://github.com/zzzprojects/GraphDiff) - DbContext extension methods for Entity Framework Code First, that allows you to save an entire detached Model/Entity, with child Entities and Lists, to the database without writing the code to do it.
+
+
+
+
+
+
+
+
  - [CodeFirstFunctions](https://github.com/moozzyk/CodeFirstFunctions) - Store Functions for EntityFramework CodeFirst.
  - [DelegateDecompiler.EntityFramework](https://github.com/hazzik/DelegateDecompiler) - A library which is able to decompile a delegate or a method body to its lambda representation.
  - [EFCache](https://github.com/moozzyk/EFCache) - EntityFramework.Cache provides a second level cache for Entity Framework 6.1 and newer.
