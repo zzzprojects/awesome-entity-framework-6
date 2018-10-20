@@ -46,7 +46,7 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [CodeFirstFunctions](https://github.com/moozzyk/CodeFirstFunctions) - Store Functions for EntityFramework CodeFirst.
 - [DelegateDecompiler.EntityFramework](https://github.com/hazzik/DelegateDecompiler) - A library which is able to decompile a delegate or a method body to its lambda representation.
 - [EFCache](https://github.com/moozzyk/EFCache) - EntityFramework.Cache provides a second level cache for Entity Framework 6.1 and newer.
-  - [EFDesigner](https://github.com/msawczyn/EFDesigner) - Entity Framework visual design surface and code-first code generation for EF6, Core and beyond.
+- [EFDesigner](https://github.com/msawczyn/EFDesigner) - Entity Framework visual design surface and code-first code generation for EF6, Core and beyond.
 - [EntityFramework.DynamicFilters](https://entityframework-dynamicfilters.net/) - Create global and scoped filters for Entity Framework queries. The filters are automatically applied to every query and can be used to support use cases such as Multi-Tenancy, Soft Deletes, Active/Inactive, etc.
  - [EntityFramework-Reverse-POCO-Code-First-Generator](https://github.com/sjh37/EntityFramework-Reverse-POCO-Code-First-Generator) - EntityFramework Reverse POCO Code First Generator - Beautifully generated code-first code that is fully customizable. 
 - [EntityFramework.Toolkit](https://github.com/thomasgalliker/EntityFramework.Toolkit) - EntityFramework.Toolkit is a library which provides implementations for EntityFramework best practices, patterns, utilities, and extensions.
