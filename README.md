@@ -23,7 +23,7 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 ## Documentation and Learning
 
 - [Entity Framework Docs](https://github.com/aspnet/EntityFramework.Docs) - Official documentation for Entity Framework by Microsoft.
-- [Entity Framework Tutorial](http://entityframework.net/) - Learn Entity Framework 6 with online examples
+- [Entity Framework Tutorial](http://entityframework.net/) - Learn Entity Framework 6 with online examples.
 - [Entityframeworktutorial.net](http://www.entityframeworktutorial.net/) - Learn Entity Framework using simple yet practical examples on EntityFrameworkTutorial.net for free
 - [Entity Framework Knowledge base](https://entityframework.net/knowledge-base) - Translated posts from Stack Overflow
 - [RIP Tutorial](https://riptutorial.com/entity-framework) - Archived Stack Overflow Documentation (Multi-Language)
