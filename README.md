@@ -16,8 +16,8 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
    - [Documentation and Learning](#documentation-and-learning)
    - [Popular Packages](#popular-packages)
    - [Supported Packages](#supported-packages)
-   - [Provider Packages](#provider-packages)
    - [Profiler Packages](#profier-packages)
+   - [Provider Packages](#provider-packages)
    - [Unsupported Packages](#supported-packages)
 
 ## Documentation and Learning
@@ -64,9 +64,9 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [EntityFrameworkExtras](https://github.com/Fodsuk/EntityFrameworkExtras) - EntityFrameworkExtras provides some useful additions to EntityFramework such as executing Stored Procedures with User-Defined Table Types and Output Parameters.
 - [TrackerEnabledDbContext](https://github.com/bilal-fazlani/tracker-enabled-dbcontext) - Tracker-enabled DbContext offers you to implement full auditing in your database.
 
-
 ## Profiler Packages
-- [EntityFramework Profiler](https://www.hibernatingrhinos.com/products/EFProf) - Entity Framework Profiler is a real-time visual debugger allowing a development team to gain valuable insight and perspective into their usage of Entity Framework.
+- [Hibernating Rhinos Entity Framework Profiler](https://www.hibernatingrhinos.com/products/EFProf) - Entity Framework Profiler is a real-time visual debugger allowing a development team to gain valuable insight and perspective into their usage of Entity Framework.
+- [MiniProfiler](https://miniprofiler.com/dotnet/HowTo/ProfileEF6) - MiniProfiler: Integration for Entity Framework 6
 
 ## Providers
 - [Entity Framework Effort](https://github.com/zzzprojects/EntityFramework-Effort) - An Effort is a powerful tool that enables a convenient way to create automated tests for Entity Framework based applications.
