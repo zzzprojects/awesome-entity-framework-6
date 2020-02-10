@@ -48,6 +48,7 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [EFCache](https://github.com/moozzyk/EFCache) - EntityFramework.Cache provides a second level cache for Entity Framework 6.1 and newer.
 - [EFDesigner](https://github.com/msawczyn/EFDesigner) - Entity Framework visual design surface and code-first code generation for EF6, Core and beyond.
 - [EntityFramework.DynamicFilters](https://entityframework-dynamicfilters.net/) - Create global and scoped filters for Entity Framework queries. The filters are automatically applied to every query and can be used to support use cases such as Multi-Tenancy, Soft Deletes, Active/Inactive, etc.
+- [EntityFrameworkExtras](https://github.com/Fodsuk/EntityFrameworkExtras) - EntityFrameworkExtras provides some useful additions to EntityFramework such as executing Stored Procedures with User-Defined Table Types and Output Parameters.
  - [EntityFramework-Reverse-POCO-Code-First-Generator](https://github.com/sjh37/EntityFramework-Reverse-POCO-Code-First-Generator) - EntityFramework Reverse POCO Code First Generator - Beautifully generated code-first code that is fully customizable. 
 - [EntityFramework.Toolkit](https://github.com/thomasgalliker/EntityFramework.Toolkit) - EntityFramework.Toolkit is a library which provides implementations for EntityFramework best practices, patterns, utilities, and extensions.
 - [EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) - Adds events for entity inserting, inserted, updating, updated, deleting, and deleted.
@@ -75,5 +76,4 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [EntityFramework.Functions](https://github.com/Dixin/EntityFramework.Functions) - EntityFramework.Functions library implements Entity Framework code first support for stored procedures, TVFs and SVFs, etc.
 - [EntityFramework.Testing](https://github.com/scott-xu/EntityFramework.Testing) - EntityFramework.Testing provides an implementation of DbAsyncQueryProvider that can be used when testing a component that uses async queries with EntityFramework.
 - [EntityFramework.Utilities](https://github.com/MikaelEliasson/EntityFramework.Utilities) - Provides extensions for EntityFramework that doesn't exist out of the box like delete and update by query and bulk inserts.
-- [EntityFrameworkExtras](https://github.com/Fodsuk/EntityFrameworkExtras) - EntityFrameworkExtras provides some useful additions to EntityFramework such as executing Stored Procedures with User-Defined Table Types and Output Parameters.
 - [TrackerEnabledDbContext](https://github.com/bilal-fazlani/tracker-enabled-dbcontext) - Tracker-enabled DbContext offers you to implement full auditing in your database.
