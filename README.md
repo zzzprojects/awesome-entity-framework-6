@@ -39,7 +39,8 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [entityframeworktutorial.net](http://www.entityframeworktutorial.net/) - Learn Entity Framework using simple yet practical examples on EntityFrameworkTutorial.net
 - [Knowledge base - Entity Framework 6](https://entityframework.net/knowledge-base) - Translated posts from Stack Overflow
 - [RIP Tutorial](https://riptutorial.com/entity-framework) - Archived Stack Overflow Documentation (Multi-Language)
-- [Google](http://www.letmegooglethat.com/?q=Entity+Framework) - Up-and-coming search engine ;)
+- AI (Chat GPT)
+   - [ZZZ Code AI](https://zzzcode.ai/answer-question?p1=ef6) - Generate instant answer to any EF6 question
 - Books
    - [Programming Entity Framework, 2nd Edition](http://shop.oreilly.com/product/9780596807252.do) - Julia Lerman must have book
    - [Programming Entity Framework: Code First](http://shop.oreilly.com/product/0636920022220.do) - Focus on the code first part of EF
