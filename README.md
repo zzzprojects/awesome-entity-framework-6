@@ -98,17 +98,6 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [EntityFramework.Utilities](https://github.com/MikaelEliasson/EntityFramework.Utilities) - Provides extensions for EntityFramework that doesn't exist out of the box like delete and update by query and bulk inserts.
 - [TrackerEnabledDbContext](https://github.com/bilal-fazlani/tracker-enabled-dbcontext) - Tracker-enabled DbContext offers you to implement full auditing in your database.
 
-## Contribute
-
-The best way to contribute is by **spreading the word** about the library:
-
- - Blog it
- - Comment it
- - Star it
- - Share it
- 
-A **HUGE THANKS** for your help.
-
 ## More Projects
 
 - Projects:
