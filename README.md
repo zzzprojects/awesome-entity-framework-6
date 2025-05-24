@@ -1,15 +1,3 @@
-## Library Powered By
-
-This library is powered by [Entity Framework Extensions](https://entityframework-extensions.net/?z=github&y=entityframework-plus)
-
-<a href="https://entityframework-extensions.net/?z=github&y=entityframework-plus">
-<kbd>
-<img src="https://zzzprojects.github.io/images/logo/entityframework-extensions-pub.jpg" alt="Entity Framework Extensions" />
-</kbd>
-</a>
-
----
-
 # Awesome Entity Framework 6
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
@@ -18,9 +6,19 @@ This library is powered by [Entity Framework Extensions](https://entityframework
 
 A curated list of awesome entity framework 6 libraries, packages, and documentation.
 
+## Sponsors
+
+ZZZ Projects owns and maintains **Awesome Dapper** as part of our [mission](https://zzzprojects.com/mission) to add value to the .NET community
+
+Through [Dapper Plus](https://dapper-plus.net/) and [Entity Framework Extensions](https://entityframework-extensions.net/), we actively sponsor and help key open-source libraries grow.
+
+[![Dapper Plus](https://raw.githubusercontent.com/zzzprojects/awesome-entity-framework-6/master/dapper-plus-sponsor.png)](https://dapper-plus.net/bulk-insert)
+
+[![Entity Framework Extensions](https://raw.githubusercontent.com/zzzprojects/awesome-entity-framework-6/master/entity-framework-extensions-sponsor.png)](https://entityframework-extensions.net/bulk-insert)
+
 ### Contributing
 
-Suggestions and contributions are always welcome! Make sure to read the <a href="https://github.com/zzzprojects/awesome-entity-framework-6/blob/master/CONTRIBUTING.md">contribution guidelines</a> for more information before submitting a pull request.
+Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/zzzprojects/awesome-entity-framework-6/blob/master/CONTRIBUTING.md) before submitting a pull request.
 
 ### Contents
 
