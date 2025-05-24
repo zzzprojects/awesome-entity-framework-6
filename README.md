@@ -16,19 +16,28 @@ Through [Entity Framework Extensions](https://entityframework-extensions.net/) a
 
 [![Dapper Plus](https://raw.githubusercontent.com/zzzprojects/awesome-entity-framework-6/master/dapper-plus-sponsor.png)](https://dapper-plus.net/bulk-insert)
 
-### Contributing
+## Contributing
 
 Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/zzzprojects/awesome-entity-framework-6/blob/master/CONTRIBUTING.md) before submitting a pull request.
 
-### Contents
+## Contents
 
-- [Awesome Entity Framework 6](#awesome-entity-framework-6)
-   - [Documentation and Learning](#documentation-and-learning)
-   - [Popular Packages](#popular-packages)
-   - [Supported Packages](#supported-packages)
-   - [Profiler Packages](#profiler-packages)
-   - [Provider Packages](#provider-packages)
-   - [Unsupported Packages](#supported-packages)
+- [Entity Framework Newsletter](#entity-framework-newsletter)
+- [Documentation and Learning](#documentation-and-learning)
+- [Popular Packages](#popular-packages)
+- [Supported Packages](#supported-packages)
+- [Profiler Packages](#profiler-packages)
+- [Provider Packages](#provider-packages)
+- [Unsupported Packages](#supported-packages)
+
+## Entity Framework Newsletter
+
+**📬 Subscribe for Entity Framework updates that matter** – [Sign up free](https://mailchi.mp/zzzprojects/entity-framework-newsletter) and stay in the loop.
+
+- 🛠️ Real-world Entity Framework tips
+- 🚀 New package releases
+- 🎓 Dev-focused video tutorials
+- 🧠 Fresh articles and guides
 
 ## Documentation and Learning
 
