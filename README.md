@@ -8,7 +8,7 @@ A curated list of awesome entity framework 6 libraries, packages, and documentat
 
 ## Sponsors
 
-ZZZ Projects owns and maintains **Awesome Entity Framework** as part of our [mission](https://zzzprojects.com/mission) to add value to the .NET community
+ZZZ Projects owns and maintains **Awesome Entity Framework (EF6)** as part of our [mission](https://zzzprojects.com/mission) to add value to the .NET community
 
 Through [Dapper Plus](https://dapper-plus.net/) and [Entity Framework Extensions](https://entityframework-extensions.net/), we actively sponsor and help key open-source libraries grow.
 
