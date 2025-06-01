@@ -10,11 +10,11 @@ A curated list of awesome entity framework 6 libraries, packages, and documentat
 
 ZZZ Projects owns and maintains **Awesome Entity Framework (EF6)** as part of our [mission](https://zzzprojects.com/mission) to add value to the .NET community
 
-Through [Entity Framework Extensions](https://entityframework-extensions.net/) and [Dapper Plus](https://dapper-plus.net/), we actively sponsor and help key open-source libraries grow.
+Through [Entity Framework Extensions](https://entityframework-extensions.net/?utm_source=zzzprojects&utm_medium=awesome-entity-framework-6) and [Dapper Plus](https://dapper-plus.net/?utm_source=zzzprojects&utm_medium=awesome-entity-framework-6), we actively sponsor and help key open-source libraries grow.
 
-[![Entity Framework Extensions](https://raw.githubusercontent.com/zzzprojects/awesome-entity-framework-6/master/entity-framework-extensions-sponsor.png)](https://entityframework-extensions.net/bulk-insert)
+[![Entity Framework Extensions](https://raw.githubusercontent.com/zzzprojects/awesome-entity-framework-6/master/entity-framework-extensions-sponsor.png)](https://entityframework-extensions.net/bulk-insert?utm_source=zzzprojects&utm_medium=awesome-entity-framework-6)
 
-[![Dapper Plus](https://raw.githubusercontent.com/zzzprojects/awesome-entity-framework-6/master/dapper-plus-sponsor.png)](https://dapper-plus.net/bulk-insert)
+[![Dapper Plus](https://raw.githubusercontent.com/zzzprojects/awesome-entity-framework-6/master/dapper-plus-sponsor.png)](https://dapper-plus.net/bulk-insert?utm_source=zzzprojects&utm_medium=awesome-entity-framework-6)
 
 ## Contributing
 
